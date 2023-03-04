@@ -1,0 +1,44 @@
+img{
+    width:100%;
+}
+
+.about{
+    
+    background: url(https://wallpaperaccess.com/full/806533.jpg
+    );
+    width:100%;
+    height:60vh;
+    background-position:center;
+    background-size:cover;
+    
+    
+}
+.about-content{
+    
+    color:white;
+    
+}
+
+.mybtn{
+    border:1px solid white;
+    color:white;
+    text-decoration: none;
+    padding:.7rem 1.5rem;
+    transition: .56s;
+}
+.mybtn:hover{
+    background-color:white;
+    color:black;
+}
+
+
+.myCard{
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    border-radius: .6rem;
+}
+.footer{
+    margin-bottom: 0px;
+}
+li {
+    list-style: none;
+}
