@@ -1,3 +1,8 @@
+# Reactın Componenet yapısını ilk kavradığım proje. Hazır Yapılar kullandım,yapıları reactın kendi sitesinde https://react-bootstrap.github.io/ aldım.
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
